@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="button_text_one">Texto um</string>
+    <string name="button_text_tow">Texto dois</string>
+    <string name="button_text_three">Texto Três</string>
+    <string name="text_recived_header">Mensagem Recebida</string>
+</resources>
